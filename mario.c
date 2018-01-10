@@ -69,7 +69,6 @@ wow I havent done for loop in a long time
 
 :KumSholt: tamomom came hom - Today at 11:19 PM
 ooonoooo
-@tayuku
 
 meushijyo - Today at 11:19 PM
 ya everything I said happens and then it doesnt loop again I think
@@ -117,5 +116,15 @@ ya so runs twice
 
 :KumSholt: tamomom came hom - Today at 11:22 PM
 ohhhhhhhhhhhhhhhhhhhh
+
+
+:KumSholt: tamomom came hom - Today at 11:43 PM
+1. start outside for loop
+2. do space loop once
+3. do # loop twice
+4.  \n
+5. start from outside again
+6. do # loop thrice
+7. \n(edited)
 */
 ////////////////////////////////////////
