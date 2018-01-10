@@ -31,6 +31,7 @@ int main(void)
     }
 }
 
+////////////////////////////////////////
 /*
 :KumSholt: tamomom came hom - Today at 11:17 PM
 so if i = height and i >= 1 it goes into the loop right
@@ -117,4 +118,4 @@ ya so runs twice
 :KumSholt: tamomom came hom - Today at 11:22 PM
 ohhhhhhhhhhhhhhhhhhhh
 */
-  
+////////////////////////////////////////
